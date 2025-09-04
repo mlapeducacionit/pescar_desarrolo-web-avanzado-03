@@ -26,7 +26,36 @@
 .border-green-sd {
     border: 1px solid darkgreen;
 }
+/*  */
+.fondo {
+    background-image: url('/imgs/fonto-abstracto.jpg');
+    height: 4000px;
+    background-repeat: no-repeat; /* repeat(defecto) | no-repeat | repeat-x | repeat-y  */
+    background-color: black;
+    /* La posición */
+    /*                    x    y */
+    background-position: right top; /* right -> derecha | left -> izquierda  */
+    background-position: center center; 
+    /* El tamaño */
+    background-size: 400px auto;
+}
 
+.fondo-dos {
+    background-image:
+        url('/imgs/fondo-abstracto-3.jpg'),
+        url('/imgs/fondo-abstracto-2.jpg'),
+        url('/imgs/fonto-abstracto.jpg');
+    height: 2000px;
+    background-color: black;
+    background-repeat: no-repeat, no-repeat, repeat;
+    background-position: center center, bottom right, bottom left;
+    background-size: 1000px auto, auto 1200px, 800px auto;
+}
+
+.fondo-tres {
+    background-color: pink;
+    height: 2000px;
+}
 
 
 
