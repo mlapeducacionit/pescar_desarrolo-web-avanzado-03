@@ -29,3 +29,5 @@ Ctrl + Z ----> Deshacer
 Ctrl + Y ----> Rehacer
 Ctrl + S ----> Guarda
 Ctrl + ç ----> Comentario de una línea.
+Alt + Shift + ⬇️ o ⬆️ ---> duplicar la línea
+Alt + ⬇️ o ⬆️ ---> mueve la línea
