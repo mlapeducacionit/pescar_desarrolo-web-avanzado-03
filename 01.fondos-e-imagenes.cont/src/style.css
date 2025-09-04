@@ -15,5 +15,20 @@
     height: 200px;
 }
 
+.border-blue-md {
+    border: 3px solid darkblue;
+}
+
+.border-red-md {
+    border: 3px solid darkred;
+}
+
+.border-green-sd {
+    border: 1px solid darkgreen;
+}
+
+
+
+
 /* Imagenes propoción */
 /* aspect ratio -> relación de aspecto */
