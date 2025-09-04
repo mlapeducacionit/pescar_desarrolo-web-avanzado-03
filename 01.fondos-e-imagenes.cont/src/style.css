@@ -1,0 +1,19 @@
+.w-100 { /* <----  .w-100 {} <--- reglas css */
+    /* propiedad:  valor */
+    width: 100px; /* <--- declaración */
+}
+
+.h-100 {
+    height: 100px;
+}
+
+.w-200 {
+    width: 200px;
+}
+
+.h-200 {
+    height: 200px;
+}
+
+/* Imagenes propoción */
+/* aspect ratio -> relación de aspecto */
